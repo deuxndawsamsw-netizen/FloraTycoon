@@ -1,0 +1,6 @@
+{
+  "name": "FloraTycoon",
+  "description": "Idle botanical tycoon: grow and harvest exotic plants, crack randomized seedpacks, tap the golden pot, and automate offline profits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
